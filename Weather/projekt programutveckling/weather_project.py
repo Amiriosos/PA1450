@@ -1,7 +1,7 @@
 import pandas as pd 
 import sys
 import matplotlib.pyplot as plt 
-import matplotlib.dates as dts
+
 
 def loadData():
     global df
